@@ -10,5 +10,5 @@ consist of my profile where three categories are listed
 @output screenshot link
 https://kommodo.ai/i/OHvQaP642Kqn9BJeuRlr
 
-##Opening link of versal
+##Opening link of vercel
 https://day2-assignment-topaz.vercel.app
